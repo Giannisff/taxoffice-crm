@@ -62,7 +62,7 @@ yaml
 ### 🔹 Βήμα 1 – Κατέβασμα Κώδικα
 
 ```bash
-git clone https://github.com/your-username/taxoffice-crm.git
+git clone https://github.com/giannisff/taxoffice-crm.git
 ή κατεβάστε το ZIP από το GitHub και αποσυμπιέστε το.
 
 🔹 Βήμα 2 – Βάση Δεδομένων
@@ -72,7 +72,7 @@ git clone https://github.com/your-username/taxoffice-crm.git
 
 pgsql
 Αντιγραφή κώδικα
-database/schema.sql
+database/taxoffice_crm.sql
 ℹ️ Το αρχείο περιλαμβάνει μόνο τη δομή, χωρίς δεδομένα.
 
 🔹 Βήμα 3 – Ρύθμιση Σύνδεσης Βάσης
