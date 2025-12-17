@@ -1,0 +1,6 @@
+/includes/db.php
+/vendor/
+/uploads/
+/exports/
+composer.lock
+.env
